@@ -1,0 +1,31 @@
+{
+  "name": "chaira-ng-cordova",
+  "main": "dist/chaira-ng-cordova.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/florenciajs/chaira-ng-cordova",
+  "authors": [
+    "Cristiam Diaz <c.diaz@udla.edu.co>"
+  ],
+  "description": "AngularJS Chaira library for use with Apache Cordova projects",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "chaira-ng-cordova",
+    "ngcordova",
+    "angularjs",
+    "ionic",
+    "oauth",
+    "apache cordova",
+    "phonegap",
+    "ionic framework"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
